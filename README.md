@@ -158,11 +158,9 @@ terraform apply 2>&1 | tee debug.log  # Save logs
 ### Terraform with Ansible
 [Get it here](https://github.com/saifeezibrahim/terraform-ansible-multi-env.git)
 
-### Terraform with GitHub
-[Get it here](https://github.com/saifeezibrahim/online_shop/tree/github-action/.github/workflows)
 
 ### Terraform to EKS
-[Get it here](https://github.com/saifeezibrahim/Springboot-BankApp/tree/DevOps/Terraform/EKS-Deployment)
+[Get it here](https://github.com/saifeezibrahim/terraform-eks/tree/main/terraform-eks/EKS-Deployment)
 
 ## **Final Thoughts**
 This README covers all the Terraform commands needed for your **"Terraform in One Shot"**. Let me know if you need modifications or extra details! 🚀
