@@ -164,3 +164,19 @@ terraform apply 2>&1 | tee debug.log  # Save logs
 
 ## **Final Thoughts**
 This README covers all the Terraform commands needed for your **"Terraform in One Shot"**. Let me know if you need modifications or extra details! 🚀
+
+## 🤝 Contributing
+
+Contributions, suggestions, and corrections are welcome!  
+Feel free to fork and submit a pull request!
+
+## 📄 License
+
+MIT  Free for personal and educational use.
+
+## 🙋‍♂️ Maintained by Saifeez Ibrahim
+If you found this helpful, star ⭐ the repo or share it to help more people learn DevOps!
+
+Need help or want to connect? [Reach out on GitHub!](https://github.com/saifeezibrahim)
+
+Happy learning!
